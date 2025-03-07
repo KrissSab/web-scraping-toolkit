@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+package*.json
+
+# Build output
+dist
+build
+*.tsbuildinfo
+
+# Browser data
+user-data-dir
+user-data-dir-*
+
+# Documentation and configs
+*.md
+*.json
+.editorconfig
+.gitignore
+.env*
+
+# Logs
+*.log
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea
+.vscode
+*.sublime-*
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
